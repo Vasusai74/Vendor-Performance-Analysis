@@ -20,7 +20,6 @@ This project analyzes **retail vendor performance, inventory turnover, and sales
 | Testing | Hypothesis Testing (T-Tests, ANOVA) |
 
 
----
 
 ## 📌 Project Workflow  
 
@@ -45,7 +44,6 @@ This project analyzes **retail vendor performance, inventory turnover, and sales
 📌 Snapshot Deliverables:  
 > *(Add Power BI visuals here once uploaded)*
 
----
 
 ## 📊 Metrics Computed
 | Metric | Purpose |
@@ -56,7 +54,6 @@ This project analyzes **retail vendor performance, inventory turnover, and sales
 | Dependency Index | Over-reliance risk |
 | Holding Cost Estimation | Cost optimization measure |
 
----
 
 ## 💡 Insights & Business Recommendations
 | Problem | Solution | Impact |
@@ -65,7 +62,6 @@ This project analyzes **retail vendor performance, inventory turnover, and sales
 | High unsold stock ($2.71M) | Liquidation + reorder threshold tuning | Inventory clearance |
 | High procurement cost | Bulk-buy strategy | **72% cost savings** |
 
----
 
 ## 📎 How to Run Locally
 
