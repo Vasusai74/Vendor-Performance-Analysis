@@ -21,7 +21,7 @@ This project analyzes **retail vendor performance, inventory turnover, and sales
 
 
 
-## 📊 Metrics Computed
+## Metrics Computed
 | Metric | Purpose |
 |--------|---------|
 | Inventory Turnover Ratio | Detect slow-moving SKUs |
@@ -31,7 +31,7 @@ This project analyzes **retail vendor performance, inventory turnover, and sales
 | Holding Cost Estimation | Cost optimization measure |
 
 
-## 💡 Insights & Business Recommendations
+## Insights & Business Recommendations
 | Problem | Solution | Impact |
 |---------|----------|--------|
 | High supplier reliance (65.7%) | Diversify vendor portfolio | Risk reduction |
