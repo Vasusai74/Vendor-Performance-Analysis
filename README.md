@@ -20,3 +20,4 @@ This project analyzes **retail vendor performance, inventory turnover, and sales
 | Dependency Index | Over-reliance risk |
 | Holding Cost Estimation | Cost optimization measure |
 
+<img width="1663" height="853" alt="Screenshot 2025-11-30 071029" src="https://github.com/user-attachments/assets/d7129b90-3493-405a-acbe-a82658a0ddb7" />
